@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is my repository to document my learnings and exploration into Machine Learning and Artificial Intelligence.👋
 
 <!--
 **PeterGilesML/PeterGilesML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
